@@ -1,7 +1,9 @@
 # DIO
-# Introdução ao React Native
+# Introdução ao React Native e desafio complementar feito!
 
-![image](https://user-images.githubusercontent.com/43397330/171955231-b2807806-b356-4839-8201-6129d46f1578.png)
+
+![image](https://user-images.githubusercontent.com/43397330/171965668-00d20cbc-dd91-4cef-abba-76dfab9c84d4.png)
+
 
 # Conteúdo
 - Conhecendo o React Native
