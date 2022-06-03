@@ -2,7 +2,7 @@
 # Introdução ao React Native e desafio complementar feito!
 
 
-![image](https://user-images.githubusercontent.com/43397330/171965668-00d20cbc-dd91-4cef-abba-76dfab9c84d4.png)
+![image](https://user-images.githubusercontent.com/43397330/171965757-0b3ef52a-685f-46bc-9fbb-5681ffdca094.png)
 
 
 # Conteúdo
